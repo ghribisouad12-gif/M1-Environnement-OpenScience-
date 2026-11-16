@@ -5,7 +5,7 @@ Analyse des données météorologiques et environnementales
 
 ## Noms des étudiants
 - Ghribi mesaouda 
-- dehmani kaouther
+- 
 
 ## Thème environnemental
 Étude de l'évolution de la température et des précipitations.
